@@ -1,4 +1,9 @@
+#############################################
+## github:    madport                      ##
+#############################################
+
 # You have to use your right hand
+
 
 import cv2
 import mediapipe as mp
